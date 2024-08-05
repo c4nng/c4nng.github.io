@@ -96,7 +96,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://0.gravatar.com/userimage/176725086/511b0b5c1274d67ef1d12fcc7631edb2.jpg
+avatar: https://www.google.com/url?sa=i&url=https%3A%2F%2Fwallpapers.com%2Fmr-robot&psig=AOvVaw1eedQEGB-Y5W4XulgR1E0c&ust=1722983477329000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIiwtuzz3ocDFQAAAAAdAAAAABAJ
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
